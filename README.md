@@ -1,5 +1,7 @@
 # Mapbox Isochrones API (Demo)
 
+* [Here’s the recording](https://www.twitch.tv/videos/621069129?collection=0KaZ4BBABBbisQ&filter=collections&sort=time&mkt_tok=eyJpIjoiWkdFeU1HWmxZemd6TUdRNSIsInQiOiJROFFRQmQ1NHRmMG9SS3NkOTBoVG5RZUlWYVMzWVRsSUs3MzBBdkJieHpqdFJHbitTZUl0MnFPUEJuTndQa3RBSjFTQkdjblVJMFwvUEZYUFwveWlmSGtnPT0ifQ%3D%3D) from yesterday’s Isochrones API session with John Branigan.
+
 <img src="https://github.com/domlet/mapbox-isochrones/blob/master/preview.jpg?raw=true" width=400>
 
 See this project live on the Internet:
